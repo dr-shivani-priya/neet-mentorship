@@ -1,0 +1,76 @@
+* {
+  font-family: sans-serif;
+  background-color: rgba(255, 239, 205, 0.164);
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 2.2rem;
+}
+
+.main-heading {
+  color: rgba(120, 27, 226, 0.699);
+  font-size: 6.4rem;
+  font-weight: 800;
+  line-height: 1.8rem;
+  margin-left: 2.2rem;
+}
+.mentor {
+  margin-left: 8rem;
+  color: ;
+}
+.second-heading {
+  color: coral;
+  font-weight: 600;
+  font-size: 2.1rem;
+}
+.bulb {
+  height: 15rem;
+  width: 15rem;
+  border-radius: 10%;
+  border: 2px solid rgba(76, 0, 130, 0.329);
+  margin-bottom: 5rem;
+}
+
+.container {
+  display: flex;
+  gap: 6rem;
+  margin-left: 5rem;
+}
+.plan-img {
+  height: 15rem;
+  width: 15rem;
+  border-radius: 20%;
+  box-shadow: grey;
+  border: 3px solid indianred;
+}
+
+.plan-name {
+  font-size: 1.4rem;
+  font-weight: 600;
+  margin-left: 2rem;
+  color: rgb(204, 23, 23);
+}
+.plan-price {
+  font-size: 1.2rem;
+  font-weight: 600;
+  margin-left: 2rem;
+}
+.list {
+  background-color: rgba(240, 230, 140, 0.438);
+  border-radius: 10%;
+  list-style: none;
+}
+.icon {
+  height: 1.2rem;
+  width: 1.2rem;
+  color: brown;
+}
+.btn {
+  color: black;
+  font-size: 1.3rem;
+  font-weight: 600;
+  display: inline-block;
+  background-color: rgba(27, 196, 226, 0.479);
+  border-radius: 100%;
+  padding: 1rem;
+  margin-left: 2.2rem;
+}
